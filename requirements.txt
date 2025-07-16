@@ -1,0 +1,15 @@
+# Twitter API
+tweepy>=4.14.0
+
+# Environment variable loading
+python-dotenv>=1.0.0
+
+# GUI (PyQt5)
+PyQt5>=5.15.0
+
+# QR Code generation
+qrcode>=7.4.2
+
+# Monitor info
+screeninfo>=0.8.1
+Pillow>=10.0.0
